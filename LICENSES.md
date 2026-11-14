@@ -14,9 +14,13 @@ Special notes:
 - **World English Bible / World Messianic Bible:** Public domain. “World English Bible” is a trademark of eBible.org. If the text is changed, do not call the result the World English Bible.
 - **Berean Standard Bible and Majority Standard Bible:** Dedicated to the public domain on April 30, 2023. Attribution is appreciated but not required: “The Holy Bible, Berean Standard Bible, BSB is produced in cooperation with Bible Hub, Discovery Bible, OpenBible.com, and the Berean Bible Translation Committee.”
 - **Reina-Valera 1865:** The 1865 text is public domain. The 2018 orthographic update is CC0 1.0 (Ministerios Valera 1865).
-- **Douay-Rheims 1899, Clementine Vulgate, and the Russian Synodal translation** use Vulgate or Septuagint Psalm numbering. The shepherd psalm is Psalm 22:1 in those editions, not 23:1.
+- **Douay-Rheims 1899, the Catholic Public Domain Version, the Clementine Vulgate, and the Russian Synodal translation** use Vulgate or Septuagint Psalm numbering. The shepherd psalm is Psalm 22:1 in those editions, not 23:1.
+- **Updated King James Version (UKJV):** Public domain. The author requested this credit line: “I love Jesus (UKJV).”
+- **American King James Version (AKJV):** Dedicated to the public domain by Michael Engelbrite on November 8, 1999.
+- **New Heart English Bible / Messianic Edition:** Dedicated to the public domain by Wayne A. Mitchell. The structured text here is the CrossWire/scrollmapper edition.
+- **Julia E. Smith Translation (1876), Rotherham Emphasized Bible (1902), A Conservative Version, Restored Name King James Version, and the Catholic Public Domain Version** are in the public domain.
 
-Sources include eBible.org, Berean.bible, Ministerios Valera 1865, and the Bible SuperSearch public-domain export (Bishops’ Bible and Coverdale).
+Sources include eBible.org, Berean.bible, Ministerios Valera 1865, the Bible SuperSearch public-domain export (Bishops’ Bible and Coverdale), scrollmapper/bible_databases, CrossWire SWORD modules, sacredbible.org, clove3am/julia-smith---bible, and unfoldingWord.
 
 ## Creative Commons — required attribution
 
@@ -61,6 +65,16 @@ Bíblia Livre (BLIVRE), copyright © Diego Santos, Mario Sérgio e Marco Teles, 
 ### Biblica® Open Nova Bíblia Viva 2007 (ONBP) — CC BY-SA 4.0
 
 Biblica® Open Nova Bíblia Viva™, copyright © 2007, 2010 Biblica, Inc. Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). “Biblica” is a trademark of Biblica, Inc. The original work is available at [www.biblica.com](https://www.biblica.com) and [open.bible](https://open.bible). Source: https://ebible.org/poronbv/
+
+### unfoldingWord® Simplified Text (UST) — CC BY-SA 4.0
+
+unfoldingWord® Simplified Text, copyright © unfoldingWord. Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). “unfoldingWord” is a trademark of unfoldingWord. Source: https://git.door43.org/unfoldingWord/en_ust
+
+## Other open licenses
+
+### Revised Literal Translation (RLT) — GPL / general public license
+
+Revised Literal Translation (2018), copyright © Michael W. Jones, Sr. The author grants a general public license to use this text for any purpose. CrossWire lists the module DistributionLicense as GPL. Source: https://www.crosswire.org/sword/modules/ModInfo.jsp?modName=RLT
 
 ## File layout
 
