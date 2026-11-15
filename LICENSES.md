@@ -20,7 +20,7 @@ Special notes:
 - **New Heart English Bible / Messianic Edition:** Dedicated to the public domain by Wayne A. Mitchell. The structured text here is the CrossWire/scrollmapper edition.
 - **Julia E. Smith Translation (1876), Rotherham Emphasized Bible (1902), A Conservative Version, Restored Name King James Version, and the Catholic Public Domain Version** are in the public domain.
 
-Sources include eBible.org, Berean.bible, Ministerios Valera 1865, the Bible SuperSearch public-domain export (Bishops’ Bible and Coverdale), scrollmapper/bible_databases, CrossWire SWORD modules, sacredbible.org, clove3am/julia-smith---bible, and unfoldingWord.
+Sources include eBible.org, Berean.bible, Ministerios Valera 1865, the Bible SuperSearch public-domain export (Bishops’ Bible and Coverdale), scrollmapper/bible_databases, CrossWire SWORD modules, sacredbible.org, clove3am/julia-smith---bible, and unfoldingWord. This update also adds public-domain editions from eBible.org including Ostervald, the Londona Biblio, Baibala Hemolele 1868, the Karadžić–Daničić Serbian Bible, the Thai Freedom Bible, the Modern Hebrew Bible, the Persian Old Translation, and the Judson Burmese Bible.
 
 ## Creative Commons — required attribution
 
@@ -75,6 +75,57 @@ unfoldingWord® Simplified Text, copyright © unfoldingWord. Licensed under [CC 
 ### Revised Literal Translation (RLT) — GPL / general public license
 
 Revised Literal Translation (2018), copyright © Michael W. Jones, Sr. The author grants a general public license to use this text for any purpose. CrossWire lists the module DistributionLicense as GPL. Source: https://www.crosswire.org/sword/modules/ModInfo.jsp?modName=RLT
+
+
+### Schlachter-Bibel 1951 (SCH1951) — CC BY 4.0
+
+Die Schlachter-Bibel 1951, copyright © 1951 Genfer Bibelgesellschaft. Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Source: https://ebible.org/deu1951/
+
+### Sainte Bible néo-Crampon Libre (NCL) — CC BY-SA 4.0
+
+Sainte Bible néo-Crampon Libre, copyright © 2022 Fraternité de Tibériade. Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Source: https://ebible.org/francl/
+
+### Bib Sen An (BSA) — CC BY-SA 4.0
+
+Bib Sen An, copyright © 2017–2023 Ron Smith. Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Source: https://ebible.org/hatbsa/
+
+### Malayalam Bible 1910, contemporary orthography (MAL2015) — CC BY-SA 4.0
+
+Malayalam Satyavedapustakam 1910 in contemporary orthography, copyright © 2015 The Free Bible Foundation. Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Based on the public-domain 1910 Malayalam Bible. Source: https://ebible.org/mal2015/
+
+### Biblica® Open Bibles — CC BY-SA 4.0
+
+The following Biblica® Open editions are copyright Biblica, Inc. and licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). “Biblica” is a trademark of Biblica, Inc. The original works are available at [www.biblica.com](https://www.biblica.com) and [open.bible](https://open.bible).
+
+- Open New Arabic Version / Ketab El Hayat Majani (KEH) — https://ebible.org/arbnav/
+- Open Chinese Contemporary Bible, Simplified (OCCBS) — https://ebible.org/cmncbs/
+- Open Chinese Contemporary Bible, Traditional (OCCBT) — https://ebible.org/cmncbt/
+- Open Vietnamese Contemporary Bible (OVCB) — https://ebible.org/vieovcb/
+- Open Hausa Contemporary Bible (HAU) — https://ebible.org/hausa/
+- Open Igbo Contemporary Bible (IBO) — https://ebible.org/ibo/
+- Open Yoruba Contemporary Bible (YOR) — https://ebible.org/yor/
+- Open Swahili Neno Bible (NENO) — https://ebible.org/swhonen/
+- Open Hindi Contemporary Version (HINCV) — https://ebible.org/hincv/
+- Open Shona Contemporary Bible (SNA) — https://ebible.org/sna/
+- Open Chichewa Contemporary Bible (NYA) — https://ebible.org/nya/
+- Open Lingala Contemporary Bible (LIN) — https://ebible.org/lin/
+- Open Luganda Contemporary Bible (LUG) — https://ebible.org/lug/
+- Open Cebuano Bible (OCEB) — https://ebible.org/cebocb/
+- Open Hiligaynon Bible (OHIL) — https://ebible.org/hil/
+- Open Persian Contemporary Bible 2022 (OPCB) — https://ebible.org/pesopcb/
+- Open Bengali Contemporary Version (OBEN) — https://ebible.org/benobcv/
+- Open Urdu Contemporary Version (OURD) — https://ebible.org/urdoucv/
+
+### Indian Revised Version (IRV) — CC BY-SA 4.0
+
+The Indian Revised Version editions below are copyright Bridge Connectivity Solutions and licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+- Hindi 2019 (IRVHIN) — https://ebible.org/hin2017/
+- Bengali (IRVBEN) — https://ebible.org/benirv/
+- Tamil (IRVTAM) — https://ebible.org/tam2017/
+- Telugu 2019 (IRVTEL) — https://ebible.org/tel2017/
+- Malayalam (IRVMAL) — https://ebible.org/mal/
+- Kannada 2019 (IRVKAN) — https://ebible.org/kanirv/
 
 ## File layout
 
